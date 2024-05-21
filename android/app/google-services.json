@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "483972903662",
+    "firebase_url": "https://hydrogen-on-firebase-default-rtdb.firebaseio.com",
+    "project_id": "hydrogen-on-firebase",
+    "storage_bucket": "hydrogen-on-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483972903662:android:27ddc080ddd9ec7c08b9ff",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7LIbUTgOFsJPSyXz17fJMEO9q-vq-g5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483972903662:android:366843b0af34134508b9ff",
+        "android_client_info": {
+          "package_name": "com.example.hydrogen_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7LIbUTgOFsJPSyXz17fJMEO9q-vq-g5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483972903662:android:d86027b912f9c4a408b9ff",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7LIbUTgOFsJPSyXz17fJMEO9q-vq-g5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
