@@ -23,3 +23,6 @@ https://www.veritas-a.com/news/articleView.html?idxno=495254
 <img width="377" alt="페이지1" src="https://github.com/youngmumi/hackaton/assets/88278522/4d8d9e28-258f-4b2a-b479-2ad774a1223e">
 <img width="377" alt="페이지1_MAIN COLOR" src="https://github.com/youngmumi/hackaton/assets/88278522/5bd2e46d-b2f2-459d-9b45-b8ab068973fe">
 <img width="377" alt="메인_화면" src="https://github.com/youngmumi/hackaton/assets/88278522/5959974f-512e-4f14-9e11-24f8614a2e08">
+
+진행사항 관련 게시물: 
+https://blog-of-tifo.tistory.com/2
